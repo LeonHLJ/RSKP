@@ -75,10 +75,10 @@ The trained model can be found [here](https://drive.google.com/file/d/1oryQz0VR4
 - Run the command below.
 
 ~~~~
-$ python train_main.py --pretrained --run-type 1 --model-id 1 --load-epoch 240
+$ python train_main.py --pretrained --run-type 1 --model-id 1 --load-epoch xxx
 ~~~~
 
-`load-epoch` refers to the epoch of the best model. The best model would not always occur at 240 epoch, please refer to the log in the same folder of saved models to set the load epoch of the best model.
+Please refer to the log in the same folder of saved models to set the load epoch of the best model.
 Make sure you set the right `model-id` that corresponds to the `model-id` during training.
 
 ## References
