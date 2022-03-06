@@ -4,7 +4,7 @@
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
 >
 > Paper: 
-> arXiv %[arXiv](https://arxiv.org/abs/2108.06524)
+> [arXiv]()
 
 ## Overview
 The experimental results on THUMOS14 are as below.
