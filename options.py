@@ -16,7 +16,7 @@ parser.add_argument('--load-epoch', type=int, default=None, help='epoch of loade
 parser.add_argument('--save-interval', type=int, default=5, help='interval for storing model')
 
 # dataset patameters
-parser.add_argument('--dataset-root', default='/home/jlhuang/code/Data/WSD_Data/', help='dataset root path')
+parser.add_argument('--dataset-root', default='/Data/WSD_Data/', help='dataset root path')
 parser.add_argument('--dataset-name', default='Thumos14reduced', help='dataset to train on')
 parser.add_argument('--video-num', default=200, help='video number')
 
