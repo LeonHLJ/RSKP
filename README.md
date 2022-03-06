@@ -4,7 +4,7 @@
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
 >
 > Paper: 
-> [arXiv](https://arxiv.org/abs/2108.06524)
+> arXiv %[arXiv](https://arxiv.org/abs/2108.06524)
 
 ## Overview
 The experimental results on THUMOS14 are as below.
@@ -29,7 +29,7 @@ The experimental results on THUMOS14 are as below.
 | [HAM-Net](https://arxiv.org/pdf/2101.00545) | 65.4 | 59.0 | 50.3 | 41.1 | 31.0 | 20.7 | 11.1 | 39.8 |
 | [ACSNet](https://arxiv.org/pdf/2103.15088) | - | - | 51.4 | 42.7 | 32.4 | 22.0 | 11.7 | - |
 | [WUM](https://arxiv.org/abs/2006.07006) | 67.5 | 61.2 | 52.3 | 43.4 | 33.7 | 22.9 | 12.1 | 41.9 |
-| [AUMN](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.pdf) | 66.2 | 61.9 | **54.9** | 44.4 | 33.3 | 20.5 | 9.0 | 41.5 |
+| [AUMN](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.pdf) | 66.2 | 61.9 | 54.9 | 44.4 | 33.3 | 20.5 | 9.0 | 41.5 |
 | [CoLA](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_CoLA_Weakly-Supervised_Temporal_Action_Localization_With_Snippet_Contrastive_Learning_CVPR_2021_paper.pdf) | 66.2 | 59.5 | 51.5 | 41.9 | 32.2 | 22.0 | 13.1 | 40.9 |
 | [ASL](https://arxiv.org/abs/2006.07006) | 67.0 | - | 51.8 | - | 31.1 | - | 11.4 | - |
 | [TS-PCA](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_The_Blessings_of_Unlabeled_Background_in_Untrimmed_Videos_CVPR_2021_paper.pdf) | 67.6 | 61.1 | 53.4 | 43.4 | 34.3 | 24.7 | 13.7 | 42.6 |
