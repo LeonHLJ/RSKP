@@ -57,12 +57,12 @@ The experimental results on THUMOS14 are as below.
 ### Training
 You can easily train the model by running the provided script.
 
-- Refer to `train_options.py`. Modify the argument of `dataset-root` to the path of your `dataset` folder.
+- Refer to `options.py`. Modify the argument of `dataset-root` to the path of your `dataset` folder.
 
 - Run the command below.
 
 ~~~~
-$ python train_main.py --run-type 0 --model-id 1
+$ python main.py --run-type 0 --model-id 1
 ~~~~
 
 Models are saved in `./ckpt/dataset_name/model_id/`
@@ -75,7 +75,7 @@ The trained model can be found [here](https://drive.google.com/file/d/1oryQz0VR4
 - Run the command below.
 
 ~~~~
-$ python train_main.py --pretrained --run-type 1 --model-id 1 --load-epoch xxx
+$ python main.py --pretrained --run-type 1 --model-id 1 --load-epoch xxx
 ~~~~
 
 Please refer to the log in the same folder of saved models to set the load epoch of the best model.
