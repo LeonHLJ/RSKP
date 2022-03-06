@@ -70,7 +70,7 @@ Models are saved in `./ckpt/dataset_name/model_id/`
 ### Evaulation
 
 #### 
-The trained model can be found [here](https://drive.google.com/file/d/1oryQz0VR4RIA21oSKADFCZi3M8-0ViZP/view?usp=sharing). Please put it into `./ckpt/dataset_name/model_id/`.
+The trained model can be found [here](https://drive.google.com/file/d/1xgyebFW75B08hJrXarmK5ZQ6F5iahg4A/view?usp=sharing). Please put it into `./ckpt/dataset_name/model_id/`.
 
 - Run the command below.
 
