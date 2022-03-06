@@ -1,6 +1,6 @@
 # RSKP
 
-> **Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation**<br> (CVPR 2022)
+> **Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation (CVPR 2022)**<br> 
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
 >
 > Paper: 
