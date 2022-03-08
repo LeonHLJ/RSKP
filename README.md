@@ -90,5 +90,15 @@ We referenced the repos below for the code.
 * [W-TALC](https://github.com/sujoyp/wtalc-pytorch)
 * [BaS-Net](https://github.com/Pilhyeon/BaSNet-pytorch)
 
+## Citation
+~~~~
+@InProceedings{rskp,
+  title={Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation},
+  author={Huang, Linjiang and Wang, Liang and Li, Hongsheng},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
+
+
 ## Contact
 If you have any question or comment, please contact the first author of the paper - Linjiang Huang (ljhuang524@gmail.com).
