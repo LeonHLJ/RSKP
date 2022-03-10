@@ -95,7 +95,7 @@ We referenced the repos below for the code.
 @InProceedings{rskp,
   title={Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation},
   author={Huang, Linjiang and Wang, Liang and Li, Hongsheng},
-  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2022}
 }
 ~~~~
