@@ -3,7 +3,7 @@
 > **Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation (CVPR 2022)**<br> 
 > Linjiang Huang (CUHK), Liang Wang (CASIA), Hongsheng Li (CUHK)
 >
-> [![arXiv](https://img.shields.io/badge/arXiv-2203.02925-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2203.02925) [![CVPR2022](https://img.shields.io/badge/arXiv-2203.02925-b31b1b.svg?style=plastic)](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Weakly_Supervised_Temporal_Action_Localization_via_Representative_Snippet_Knowledge_Propagation_CVPR_2022_paper.pdf) 
+> [![arXiv](https://img.shields.io/badge/arXiv-2203.02925-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2203.02925) [![CVPR2022](https://img.shields.io/badge/CVPR.svg?style=plastic)](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Weakly_Supervised_Temporal_Action_Localization_via_Representative_Snippet_Knowledge_Propagation_CVPR_2022_paper.pdf) 
 
 ## Overview
 The experimental results on THUMOS14 are as below.
