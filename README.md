@@ -45,7 +45,7 @@ The experimental results on THUMOS14 are as below.
 * Tensorboard Logger
 * CUDA 10.0
 
-**Note**: Our code works with different PyTorch and CUDA versions, for high version Pytorch, you need to change one line of our code according to this [issue](https://github.com/LeonHLJ/RSKP/issues/2).
+**Note**: Our code works with different PyTorch and CUDA versions, for high version of Pytorch, you need to change one line of our code according to this [issue](https://github.com/LeonHLJ/RSKP/issues/2).
 
 ### Data Preparation
 1. Prepare [THUMOS'14](https://www.crcv.ucf.edu/THUMOS14/) dataset.
