@@ -41,9 +41,9 @@ The experimental results on THUMOS14 are as below.
 ## Prerequisites
 ### Recommended Environment
 * Python 3.6
-* Pytorch 1.2
+* Pytorch 1.5
 * Tensorboard Logger
-* CUDA 10.0
+* CUDA 10.1
 
 **Note**: Our code works with different PyTorch and CUDA versions, for high version of Pytorch, you need to change one line of our code according to this [issue](https://github.com/LeonHLJ/RSKP/issues/2).
 
