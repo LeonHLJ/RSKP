@@ -1,0 +1,4 @@
+numpy==1.16.2
+scipy==1.5.2
+tensorboard_logger==0.1.0
+torch==1.5.0+cu101
