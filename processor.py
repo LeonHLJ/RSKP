@@ -137,7 +137,7 @@ class Processor():
                 vid_att_loss = self.loss_att(o_out[2])
 
                 if epoch > self.args.warmup_epoch:
-                    idxs = np.where(np_labels==1)[0].tolist()
+                    idxs = np.where(np_labels==1)[1].tolist()
                     cls_mu = self.memory._return_queue(idxs).detach()
                     reallocated_x = random_walk(em_out[0], cls_mu, self.args.w)
                     r_vid_ca_pred, r_vid_cw_pred, r_frm_fore_att, r_frm_pred = self.model.PredictionModule(reallocated_x)
